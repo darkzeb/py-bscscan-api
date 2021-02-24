@@ -7,8 +7,8 @@ Restarted from the famous https://github.com/corpetty/py-etherscan-api by [Corey
 ## Description
 
 This module is written as an effort to provide python bindings to the BSCscan.com API, which can be found at:
-https://bscscan.com/apis. If you are interacting with a contract on the Ropsten Testnet please use
-https://ropsten.bscscan.com/apis.
+https://bscscan.com/apis.
+
 In order to use this, you must attain an BSCscan user account, and generate an API key.
 
 In order to use the API, you must provide an API key at runtime, which can be found at the bscscan.com API website.
